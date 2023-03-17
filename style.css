@@ -34,12 +34,6 @@ hr{
     --bs-btn-hover-border-colors: #ee4b08;
 }
 
-.btn-primary:hover{
-    background-color: #ee4b08;
-    border-color: #ee4b08;
-    border-width: 3px;
-}
-
 .btn-lg{
     padding: 1rem 2rem;
 }
